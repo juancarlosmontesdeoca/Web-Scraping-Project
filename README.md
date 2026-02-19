@@ -1,1 +1,1 @@
-# Web-Scraping-Project
+Este proyecto permite aplicar web scraping a Mercado Libre Inmuebles, recopilando datos distribuidos en Múltiples enlaces internos, ya que dentro de ellos estaba el precio, metros cuadrados, habitaciones y baños. Se simula la interacción de un usuario con la página mediante Selenium, aplicando pausas aleatorias y respetando buenas prácticas de scraping.
